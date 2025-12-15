@@ -231,3 +231,12 @@ En was de flow:
 De video is om aan te tonen hoe de lamp veranderd als de luchtvochtigheid veranderd:
 
 ![Werking lamp Node-RED](./videos/lamp.mp4)
+
+
+
+### bronnen en 
+
+[](https://flows.nodered.org/node/node-red-contrib-wiz-local-control)
+[](https://nodered.org/)
+[](https://whadda.com/product/esp32-development-board-wpb109/)
+[](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
